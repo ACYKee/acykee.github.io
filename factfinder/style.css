@@ -1,0 +1,92 @@
+ div{
+	border:2px solid black;
+	min-height:200px;
+	width:500px;
+	margin:30px;
+	border-radius:10px;
+	display:flex;
+	justify-content: center;
+    align-items: center;
+	padding-top:6px;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	font-size: 35px;
+ }
+ 
+  body{
+	 background-color: #add8e6;
+	 
+	 
+ }
+ h3{
+	 font-family: 'Comic Sans MS';
+	 font-size:30px;
+
+ }
+ h3:hover {
+  color: yellow;
+}
+#c{
+	color:orange;
+	 border: 2px solid black; 
+	font-family: 'Comic Sans MS';
+	width: 250px;
+	height:100px;
+}
+#c:hover {
+  background-color: orange;
+  color: black;
+}
+#h{
+	color:brown;
+	 border: 2px solid blue;
+	font-family: 'Comic Sans MS';
+	width: 250px;
+	height:100px;
+}
+#h:hover {
+  background-color: #2a9df4;
+  color: brown;
+}
+#d{
+	color:grey;
+	 border: 2px solid #4CAF50; 
+	font-family: 'Comic Sans MS';
+	width: 250px;
+	height:100px;
+}
+#d:hover {
+  background-color: beige;
+  color: green;
+}
+#p{
+	color:pink;
+	 border: 2px solid magenta;
+	font-family: 'Comic Sans MS';
+	width: 250px;
+	height:100px;
+}
+#p:hover {
+  background-color: pink; 
+  color: magenta;
+}
+#m{
+	 border: 2px solid red;
+	 font-family: 'Comic Sans MS';
+	 width: 250px;
+	 height:100px;
+}
+#m:hover {
+  background-color: red; 
+  color: white;
+}
+#outfacts{
+	color:green;
+	font-family: 'Arial';
+	
+}
+
+#pic{
+	width:200px;
+}
